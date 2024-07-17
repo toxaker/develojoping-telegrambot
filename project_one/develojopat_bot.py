@@ -101,10 +101,7 @@ def social_media(update: Update, context: CallbackContext) -> None:
     social_buttons = [
         [InlineKeyboardButton('GITHUB', url='https://github.com/toxakalinin')],
         [InlineKeyboardButton('Mastodon', url='https://mastodon.social/@toxakalinin')],
-        [InlineKeyboardButton('TG', url='https://t.me/m/HXvf850lY2Uy')],
         [InlineKeyboardButton('X', url='https://x.com/toxakalinin/')],
-        [InlineKeyboardButton('Facebook', url='https://www.facebook.com/toxxxakalinin/')],
-        [InlineKeyboardButton('Mail', url='mail:to iamtoxakalinin@proton.me')]
     ]
     update.message.reply_text('Мои социальные сети:', reply_markup=InlineKeyboardMarkup(social_buttons))
 
@@ -116,7 +113,7 @@ def question(update: Update, context: CallbackContext) -> None:
 def forward_message(update: Update, context: CallbackContext) -> None:
     user_message = update.message.text
     # ID вашего чата в Телеграме, куда будут пересылаться сообщения
-    chat_id = 1605213794
+    chat_id = 1010101010
     context.bot.send_message(chat_id=chat_id, text=user_message)
     update.message.reply_text('Ваш вопрос отправлен.')
 
