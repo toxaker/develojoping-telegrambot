@@ -7,7 +7,7 @@ https://github.com/python-telegram-bot/python-telegram-bot; https://github.com/e
 
 Also worth to visit https://core.telegram.org/api#bot-api; https://en.wikipedia.org/wiki/Telegram_(software); https://core.telegram.org/bots. its a BASE.
 
-# Telegram Bot with Birthday and Personal Messages
+# Telegram Bot as web assistant, contact and consult helper for the web site.
 
 ## Introduction
 
