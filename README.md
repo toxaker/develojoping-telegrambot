@@ -8,37 +8,26 @@ Also worth to visit https://core.telegram.org/api#bot-api; https://en.wikipedia.
 
 # Telegram Bot with Birthday and Personal Messages
 
-## Введение
+## Introduction
 
-Этот проект представляет собой Telegram-бота, написанного на Python. Бот выполняет несколько функций:
-- Приветствует пользователей.
-- Проверяет дни рождения пользователей.
-- Хранит персонализированные сообщения и отправляет их пользователям.
-- Отображает текущую дату.
-- Предоставляет информацию о боте и ответы на часто задаваемые вопросы.
-- Отправляет случайные цитаты и афоризмы.
-- Предоставляет текущую погоду для указанного города.
-- Отображает последние новости.
-- Игры и напоминания.
+This project is a Telegram bot written in Python. 
+The resources used in the development are standard - BOT API, python-telegram-bot.
+The initial idea was to realize the possibility of quick and convenient communication with me directly through the site, which would make it easier for a potential customer to make a purchase/receive information/receive answers to questions, etc., which in general would have a positive impact on the communication device as a whole (which can and does have a positive impact on the commercial side of the project (if it is commercial). For me, as an implementer, it would also simplify communication with the client due to the possibility of communicating in the most comfortable and accessible way.
 
-## Описание
+However, during the development process, ideas and the opportunity to implement a number of other features came up, some of which are listed below and have already been implemented, in the debugging and soon-to-be-launched or under development phase.
 
-### Основные функции
+## Functionality:
 
-1. **Приветствие пользователя** - команда `/start`.
-2. **Проверка дня рождения пользователя** - команда `/check_birthday_for <username>`.
-3. **Отправка текущей даты** - команда `/current_date`.
-4. **Информация о боте** - команда `/info`.
-5. **Часто задаваемые вопросы** - команда `/faq`.
-6. **Отправка случайной цитаты** - команда `/quote`.
-7. **Получение погоды для указанного города** - команда `/weather <город>`.
-8. **Отображение последних новостей** - команда `/news`.
-9. **Игра "Угадай число"** - команда `/guess`.
-10. **Установка напоминаний** - команда `/remind_me <время> <сообщение>`.
-11. **Отправка случайного афоризма** - команда `/aphorism`.
+1. Contact with a potential client, meet and greet, bot description and instructions for use.
+2. Providing basic information, frequently asked questions (assorted) and answers.
+3. Contact information and contacts for complaints/suggestions/cooperation.
+4. Range of services and price list.
+5. Documentation and licenses
 
-### 
-Этот файл README.md включает в себя все необходимые разделы, чтобы предоставить полное руководство по использованию бота.
+
+
+
+
 
 Questions to me personally?
 buildon.python742@dralias.com
