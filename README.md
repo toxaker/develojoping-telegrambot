@@ -1,5 +1,5 @@
-# develojoping project
-## my first steps to IT sphere.
+# Develojoping project
+## My first steps to IT sphere.
 
 In the context of the profile as a whole, the "develojoping-ment" can be seen as a rough draft, for now, even if it may not follow the best approach completely. But this is not a big issue as long as the end result is not greatly affected. This initial section is dedicated to comprehending not only the programs and the code itself, but also, in principle, the underlying platforms and mechanisms of operation. After all, this is the first project, I was just learning and figuring things out. to repeat at my own risk, although mine are few if not none - after this short introduction, I attach all the materials that I have relied on and used. To be honest, there is more info than even needs for beginning, just be patient and attentive, and especially to these particularly helpful sources (libs and step-by-step tutorials).
 
