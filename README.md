@@ -202,5 +202,10 @@ if __name__ == '__main__':
 
 
 
+https://github.com/user-attachments/assets/0795239f-b6a6-4d2d-97e0-467a6f1d40d6
+
+i will be happy if i helped someone with something at least a little. take care!
+
+
 Questions to me personally?
 buildon.python742@dralias.com
